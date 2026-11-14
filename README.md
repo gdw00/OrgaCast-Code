@@ -4,10 +4,6 @@ OrgaCast forecasts future fluorescence organoid images from an observed image se
 
 The model combines a pretrained latent diffusion U-Net with a temporal ControlNet. Parallel temporal convolution and attention integrate image history, while separate metadata encoders represent observed and target conditions. The original U-Net, VAE and text encoder stay frozen; the control branch and new metadata adapters are trained. Repeated stochastic forecasts provide ensemble predictions and pixel-wise variance maps.
 
-## Prediction example
-
-![OrgaCast: observed Days 7, 9 and 11, followed by Day 15 ground truth and prediction](examples/forecast_preview.png)
-
 ## Installation
 
 The tested environment uses Python 3.10 and PyTorch 2.2.2 with CUDA 12.1.
