@@ -1,0 +1,8 @@
+{
+  "project_name": "orgacast",
+  "package_name": "orgacast",
+  "environment_name": "orgacast",
+  "tracker_project_name": "orgacast",
+  "run_name_prefix": "orgacast",
+  "output_dir": "outputs/orgacast"
+}

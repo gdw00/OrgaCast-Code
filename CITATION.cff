@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the OrgaCast paper."
+title: "OrgaCast: A Trustworthy Spatiotemporal Diffusion Model for Fluorescence Organoid Forecasting"
+type: article
+doi: 10.1609/aaai.v40i6.42405
+authors:
+  - family-names: Gao
+    given-names: Dawei
+  - family-names: Gomez
+    given-names: Angello Huerta
+  - family-names: Li
+    given-names: Mingchen
+  - family-names: El-Mokahal
+    given-names: Marcel
+  - family-names: Yang
+    given-names: Huaxiao
+  - family-names: Feng
+    given-names: Yunhe
